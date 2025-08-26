@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# CTCBH 
 
-`CURSO`
+`SISTEMAS DE INFORMAÇÃO`
 
-`DISCIPLINA`
+`TRABALHO INTERDISCIPLINAR: APLICAÇÕES PARA SUSTENTABILIDADE`
 
-`SEMESTRE`
+`2° SEMESTRE 2025`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ana Beatriz Costa Viana
+* Grazielle Sorrentino Santos Souza
+* Gustavo Anselmo Santos Silva
+* Gustavo de Assis Vilarino
+* Karina Oliveira Bichalho de Almeida
+* Nicole Marie Agnelo Marques
 
 ## Orientador
 
-* Nome completo do professor 1
+* Pedro Alves de Oliveira
 
 ## Instruções de utilização
 
