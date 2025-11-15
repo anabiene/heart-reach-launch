@@ -1,0 +1,30 @@
+
+Front-End: Páginas e Rotas faltando
+	
+	Página de login, com rota, após login redirecionando para a página home.
+	
+	
+	Ana
+	Landing page
+	
+	Grazi
+	Gerenciamento dos voluntários
+		Adicionar novo voluntario e rota
+		edit e delete e rotas
+		
+	Gerenciamento dos beneficiários
+		Criar página gerenciamento de beneficiários edit e delete e rotas para adicionar beneficiários
+	
+	Gustavo
+	Gerenciamento dos alugueis/Criação de relatórios financeiros
+		Criar página 
+		
+	Criação de relatório dos participantes dos eventos
+	
+	Karina
+	Login/logout
+	Apoio na landing page
+	
+	Nicole
+	Agendamento das atividades internas que serão realizadas no local
+	Envio de notificação por email quando estiver faltando 1 dia para um evento acontecer
